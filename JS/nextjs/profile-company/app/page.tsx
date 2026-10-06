@@ -12,9 +12,9 @@ import {
   InputGroup,
   InputGroupAddon,
   InputGroupInput,
-} from "@/components/ui/input-group"
+} from "@/components/ui/input-group";
 
-export default function Home() {
+export default function Page() {
   return (
     <main className="relative relative w-full bg-white dark:bg-black">
       <div className="relative z-0 -mt-[96px]"> 
